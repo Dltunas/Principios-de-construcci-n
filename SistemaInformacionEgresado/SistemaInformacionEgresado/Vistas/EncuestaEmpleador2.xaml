@@ -1,0 +1,19 @@
+﻿<Window x:Class="SistemaInformacionEgresado.Vistas.EncuestaEmpleador2"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SistemaInformacionEgresado.Vistas"
+        mc:Ignorable="d"
+        Title="EncuestaEmpleador2" Height="450" Width="800">
+    <Grid>
+        <Label Content="¿En que área deberían estar más capacitados los Licenciados en Informática que trabajan en su&#xD;&#xA;empresa?" HorizontalAlignment="Left" Margin="18,23,0,0" VerticalAlignment="Top" Width="682"/>
+        <CheckBox Content="CheckBox" HorizontalAlignment="Left" Margin="25,75,0,0" VerticalAlignment="Top"/>
+        <CheckBox Content="CheckBox" HorizontalAlignment="Left" Margin="130,75,0,0" VerticalAlignment="Top"/>
+        <CheckBox Content="CheckBox" HorizontalAlignment="Left" Margin="349,75,0,0" VerticalAlignment="Top"/>
+        <CheckBox Content="CheckBox" HorizontalAlignment="Left" Margin="30,135,0,0" VerticalAlignment="Top" RenderTransformOrigin="1.493,0.667"/>
+        <CheckBox Content="CheckBox" HorizontalAlignment="Left" Margin="125,130,0,0" VerticalAlignment="Top"/>
+        <CheckBox Content="CheckBox" HorizontalAlignment="Left" Margin="225,75,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>
